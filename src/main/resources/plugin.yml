@@ -6,6 +6,6 @@ authors: [June]
 description: Boop other players!
 commands:
   boop:
-    description: Boop other players!
+    description: Boop another player!
     usage: /boop <player>
     permission: boop.use
